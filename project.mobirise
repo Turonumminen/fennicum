@@ -78,7 +78,7 @@
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "showArrow": false,
             "contentAlign": "center",
@@ -95,9 +95,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "KASVOLLINEN ASUNTOSIJOITTAJA",
+          "title": "FENNICUM<br>VARAINHOITO",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#header3-2\" data-toolbar=\"-mbrBtnMove\">TOIMINTATAPA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">OHJEET VUOKRALAISELLE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#header3-2\" data-toolbar=\"-mbrBtnMove\">TOIMINTATAPA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">VUOKRALAISELLE</a>",
           "_tags": [
             "Theme"
           ],
