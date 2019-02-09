@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-09_1519",
+    "name": "Fennicum",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,6 +13,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/fennicum-icon-128x128.png",
+    "noImageResize": "",
+    "сanonical-url": "",
     "uniqCompNum": 9,
     "versionPublish": "4.9.2"
   },
@@ -20,8 +23,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Fennicun Varainhoito",
+        "meta_descr": "Vastuullista asuntosijoittamista",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
