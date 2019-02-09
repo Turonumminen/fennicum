@@ -103,7 +103,12 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-1"
+          "_anchor": "header4-1",
+          "_styles": {
+            "H1": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
